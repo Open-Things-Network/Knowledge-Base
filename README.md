@@ -1,1 +1,1 @@
-# KnowledgeBase
+# Baza Wiedzy
